@@ -1,0 +1,11 @@
+#button {
+  text-align: center;
+  font-size: 2em;
+  cursor: pointer;
+  padding: 0.25em;
+}
+#musicbox {
+	display: block;
+  width: 300px;
+  margin: 0 auto;
+}
